@@ -2,6 +2,8 @@
 
  BabyAGI + LangChain w/ Tools
 
+ ![agichain](sample.png)
+
 ### Prerequisites
 - An [OpenAI](https://openai.com) API key
 - A [SerpAPI](https://serpapi.com) API key
