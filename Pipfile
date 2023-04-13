@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+huggingface-hub = "*"
+openai = "*"
+google-search-results = "*"
+tiktoken = "*"
+cohere = "*"
+faiss-cpu = "*"
+python-dotenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
