@@ -1,8 +1,8 @@
 # agichain
 
- BabyAGI + LangChain w/ Tools
+![agichain](sample.png)
 
- ![agichain](sample.png)
+BabyAGI + LangChain w/ Tools
 
 ### Prerequisites
 - An [OpenAI](https://openai.com) API key
@@ -10,13 +10,13 @@
 
 ### Setup
 
+Set API key values in .env
+
 Install dependencies:
 ```
 pipenv shell
 pipenv install
 ```
-
-Set API key values in .env
 
 ### Usage
 
